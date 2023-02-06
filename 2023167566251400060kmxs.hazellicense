@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Email</key>
+	<string>chenx@vip.qq.com</string>
+	<key>Name</key>
+	<string>CHEN XIANG</string>
+	<key>Product Id</key>
+	<string>Hazel5.0</string>
+	<key>Seats</key>
+	<string>5</string>
+	<key>Signature</key>
+	<data>
+	Rj+VDAcMh3P8gjxC6DGVwffXn5tKRfjfAkktv5rZmxP+v9HbDiQrIwXctxEiIdlTpkII
+	oN2L3M2ntoM/Nw4UDH1O2gASVBgU67lGSyy6ZLQgZ7N8UyZCu9qz3sOt9uvcKUc3HWZS
+	9AM3eeKB1NCD+s38YDUgU21CNfxvdd45v90=
+	</data>
+	<key>Subproduct Id</key>
+	<string>Family Pack</string>
+	<key>Transaction Id</key>
+	<string>88R658X27N4B</string>
+</dict>
+</plist>
