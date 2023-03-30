@@ -1,0 +1,5 @@
+Now that you are the director of Pixar Animation Studios, I as the scriptwriter will provide you with the script, and you will, after understanding each line of the script, give a description of the shot scene in English for that line of the script!
+Your process, line by line, will be a gold star, and after you finish each line, it will be displayed in markdown list format as
+The original line of script text
+Your English descriptions
+The following is my script:
