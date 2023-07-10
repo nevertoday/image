@@ -1,0 +1,617 @@
+emoji,emoji_unicode,emoji_description_hyphen,emoji_description_space,translated_description
+⌚,0x231a,watch,watch,手表
+⌛,0x231b,hourglass-done,hourglass done,沙漏完成
+⏰,23F0,alarm-clock,alarm clock,闹钟
+⏳,23F3,hourglass-not-done,hourglass not done,沙漏未完成
+◽,0x25fd,white-medium-small-square,white medium small square,白色中小正方形
+◾,0x25fe,black-medium-small-square,black medium small square,黑色中号小方块
+☔,0x2614,umbrella-with-rain-drops,umbrella with rain drops,有雨滴的雨伞
+☕,0x2615,hot-beverage,hot beverage,热饮
+♈,0x2648,Aries,Aries,白羊座
+♉,0x2649,Pisces,Pisces,双鱼座
+♿,267F,wheelchair-symbol,wheelchair symbol,轮椅符号
+⚓,2693,anchor,anchor,锚
+⚡,26A1,high-voltage,high voltage,高压
+⚪,0x26aa,white-circle,white circle,白色圆圈
+⚫,0x26ab,black-circle,black circle,黑色圆圈
+⚽,0x26bd,soccer-ball,soccer ball,足球
+⚾,0x26be,baseball,baseball,棒球
+⛄,0x26c4,snowman-without-snow,snowman without snow,没有雪的雪人
+⛅,0x26c5,sun-behind-cloud,sun behind cloud,云层后面的太阳
+⛎,26CE,Ophiuchus,Ophiuchus,蛇夫座
+⛔,26D4,no-entry,no entry,禁止驶入
+⛪,26EA,church,church,教会
+⛲,0x26f2,fountain,fountain,喷泉
+⛳,0x26f3,flag-in-hole,flag in hole,旗子插在洞里
+⛵,26F5,sailboat,sailboat,帆船
+⛺,26FA,tent,tent,帐篷
+⛽,26FD,fuel-pump,fuel pump,燃油泵
+✊,0x270a,raised-fist,raised fist,举起拳头
+✋,0x270b,raised-hand,raised hand,举起手
+✨,2728,sparkles,sparkles,闪闪发光
+❌,274C,cross-mark,cross mark,十字标记
+❓,0x2753,red-question-mark,red question mark,红色问号
+❔,0x2754,white-exclamation-mark,white exclamation mark,白色感叹号
+❗,2757,red-exclamation-mark,red exclamation mark,红色感叹号
+➕,0x2795,plus,plus,加
+➖,0x2796,divide,divide,划分
+➰,27B0,curly-loop,curly loop,卷曲环
+➿,27BF,double-curly-loop,double curly loop,双卷曲环
+⬛,0x2b1b,black-large-square,black large square,黑色大方块
+⬜,0x2b1c,white-large-square,white large square,白色大正方形
+⭐,2B50,star,star,星星
+⭕,2B55,hollow-red-circle,hollow red circle,空心红色圆圈
+🀄,1F004,mahjong-red-dragon,mahjong red dragon,麻将红龙
+🃏,1F0CF,joker,joker,小丑
+🌀,0x1f300,cyclone,cyclone,气旋
+🌁,0x1f301,milky-way,milky way,银河系
+🌍,0x1f30d,globe-showing-Europe-Africa,globe showing Europe Africa,显示欧洲非洲的地球仪
+🌎,0x1f30e,globe-showing-Americas,globe showing Americas,显示美洲的地球仪
+🌏,1F30F,globe-showing-Asia-Australia,globe showing Asia Australia,显示亚洲澳大利亚的地球仪
+🌐,1F310,globe-with-meridians,globe with meridians,有经络的地球仪
+🌑,1F311,new-moon,new moon,新月
+🌒,1F312,waxing-crescent-moon,waxing crescent moon,上弦月
+🌓,0x1f313,first-quarter-moon,first quarter moon,上弦月
+🌔,0x1f314,full-moon,full moon,满月
+🌖,0x1f316,waning-gibbous-moon,waning gibbous moon,亏凸月
+🌗,0x1f317,waning-crescent-moon,waning crescent moon,残月
+🌙,1F319,crescent-moon,crescent moon,新月
+🌚,1F31A,new-moon-face,new moon face,新月脸
+🌛,1F31B,first-quarter-moon-face,first quarter moon face,上弦月脸
+🌜,1F31C,last-quarter-moon-face,last quarter moon face,下弦月脸
+🌝,0x1f31d,full-moon-face,full moon face,满月脸
+🌞,0x1f31e,sun-with-face,sun with face,太阳与脸
+🌟,0x1f31f,glowing-star,glowing star,发光的星星
+🌠,0x1f320,shooting-star,shooting star,流星
+🌭,0x1f32d,hot-dog,hot dog,热狗
+🌮,0x1f32e,burrito,burrito,墨西哥卷饼
+🌰,0x1f330,chestnut,chestnut,板栗
+🌱,0x1f331,seedling,seedling,幼苗
+🌲,0x1f332,evergreen-tree,evergreen tree,常青树
+🌳,0x1f333,deciduous-tree,deciduous tree,落叶树
+🌴,0x1f334,palm-tree,palm tree,棕榈树
+🌵,0x1f335,cactus,cactus,仙人掌
+🌷,0x1f337,tulip,tulip,郁金香
+🌸,0x1f338,tangerine,tangerine,柑橘
+🍋,1F34B,lemon,lemon,柠檬
+🍌,0x1f34c,banana,banana,香蕉
+🍍,0x1f34d,green-apple,green apple,青苹果
+🍐,1F350,pear,pear,梨
+🍑,0x1f351,peach,peach,桃
+🍒,0x1f352,clinking-beer-mugs,clinking beer mugs,叮当作响的啤酒杯
+🍼,1F37C,baby-bottle,baby bottle,婴儿奶瓶
+🍾,0x1f37e,bottle-with-popping-cork,bottle with popping cork,软木塞爆开的瓶子
+🍿,0x1f37f,popcorn,popcorn,爆米花
+🎀,0x1f380,ribbon,ribbon,丝带
+🎁,0x1f381,graduation-cap,graduation cap,毕业帽
+🎠,0x1f3a0,carousel-horse,carousel horse,旋转木马
+🎡,0x1f3a1,person-surfing,person surfing,冲浪的人
+🏅,1F3C5,sports-medal,sports medal,体育奖牌
+🏆,1F3C6,trophy,trophy,杯
+🏇,1F3C7,horse-racing,horse racing,赛马
+🏈,1F3C8,american-football,american football,美式足球
+🏉,1F3C9,rugby-football,rugby football,橄榄球
+🏊,1F3CA,person-swimming,person swimming,游泳的人
+🏏,0x1f3cf,cricket-game,cricket game,板球比赛
+🏐,0x1f3d0,ping-pong,ping pong,乒乓
+🏠,0x1f3e0,house,house,房子
+🏡,0x1f3e1,Japanese-post-office,Japanese post office,日本邮局
+🏤,1F3E4,post-office,post office,邮局
+🏥,0x1f3e5,hospital,hospital,医院
+🏦,0x1f3e6,castle,castle,城堡
+🏴,1F3F4,black-flag,black flag,黑旗
+🏸,0x1f3f8,badminton,badminton,羽毛球
+🏹,0x1f3f9,rabbit,rabbit,兔子
+🐈,1F408,cat,cat,猫
+🐉,0x1f409,dragon,dragon,龙
+🐊,0x1f40a,whale,whale,鲸
+🐌,0x1f40c,snail,snail,蜗牛
+🐍,0x1f40d,horse,horse,马
+🐏,0x1f40f,ram,ram,内存
+🐐,0x1f410,goat,goat,山羊
+🐑,0x1f411,ewe,ewe,叶子
+🐒,0x1f412,monkey,monkey,猴
+🐓,1F413,rooster,rooster,公鸡
+🐔,1F414,chicken,chicken,鸡
+🐕,1F415,dog,dog,狗
+🐖,1F416,pig,pig,猪
+🐗,0x1f417,boar,boar,公猪
+🐘,0x1f418,poodle,poodle,贵宾犬
+🐪,1F42A,camel,camel,骆驼
+🐫,0x1f42b,two-hump-camel,two hump camel,两驼峰
+🐬,0x1f42c,paw-prints,paw prints,掌印
+👀,1F440,eyes,eyes,眼睛
+👂,0x1f442,ear,ear,耳朵
+👃,0x1f443,bust-in-silhouette,bust in silhouette,半身像的剪影
+👥,1F465,busts-in-silhouette,busts in silhouette,半身像的剪影
+👦,0x1f466,boy,boy,男生
+👧,0x1f467,woman-and-man-holding-hands,woman and man holding hands,女人和男人手牵着手
+👬,0x1f46c,men-holding-hands,men holding hands,男人手牵手
+👭,0x1f46d,women-holding-hands,women holding hands,妇女手牵着手
+👮,0x1f46e,police-officer,police officer,警官
+👯,0x1f46f,speech-balloon,speech balloon,语音气球
+💭,1F4AD,thought-balloon,thought balloon,思想气球
+💮,0x1f4ae,white-flower,white flower,白色的花
+💯,0x1f4af,dollar-banknote,dollar banknote,美元钞票
+💶,0x1f4b6,euro-banknote,euro banknote,欧元纸币
+💷,0x1f4b7,pound-banknote,pound banknote,英镑钞票
+💸,0x1f4b8,money-with-wings,money with wings,带翅膀的钱
+💹,0x1f4b9,closed-mailbox-with-raised-flag,closed mailbox with raised flag,带有升旗的封闭邮箱
+📬,0x1f4ec,open-mailbox-with-raised-flag,open mailbox with raised flag,打开带有升旗的邮箱
+📭,0x1f4ed,open-mailbox-with-lowered-flag,open mailbox with lowered flag,打开邮箱并降下旗帜
+📮,1F4EE,postbox,postbox,邮箱
+📯,1F4EF,postal-horn,postal horn,邮政号角
+📰,0x1f4f0,newspaper,newspaper,报纸
+📱,0x1f4f1,mobile-phone-off,mobile phone off,手机关机
+📵,1F4F5,no-mobile-phones,no mobile phones,没有手机
+📶,0x1f4f6,antenna-bars,antenna bars,天线棒
+📷,0x1f4f7,camera,camera,相机
+📸,1F4F8,camera-with-flash,camera with flash,带闪光灯的相机
+📹,0x1f4f9,video-camera,video camera,录影机
+📺,0x1f4fa,videocassette,videocassette,录像带
+📿,0x1f4ff,prayer-beads,prayer beads,念珠
+🔃,1F503,clockwise-vertical-arrows,clockwise vertical arrows,顺时针垂直箭头
+🔅,0x1f505,muted-speaker,muted speaker,静音扬声器
+🔈,1F508,speaker-low-volume,speaker low volume,扬声器音量小
+🔉,1F509,speaker-medium-volume,speaker medium volume,扬声器中等音量
+🔊,0x1f50a,speaker-high-volume,speaker high volume,扬声器高音量
+🔋,0x1f50b,bell,bell,钟
+🔕,1F515,bell-with-slash,bell with slash,带斜线的钟形
+🔖,0x1f516,bookmark,bookmark,书签
+🔗,0x1f517,water-pistol,water pistol,水枪
+🔬,0x1f52c,microscope,microscope,显微镜
+🔭,0x1f52d,telescope,telescope,望远镜
+🔮,0x1f52e,crystal-ball,crystal ball,水晶球
+🕋,0x1f54b,kaaba,kaaba,天房
+🕌,0x1f54c,menorah,menorah,烛台
+🕜,0x1f55c,one-thirty,one thirty,三十分之一
+🕝,0x1f55d,twelve-thirty,twelve thirty,十二点三十分
+🕺,1F57A,man-dancing,man dancing,跳舞的男人
+🖕,0x1f595,middle-finger,middle finger,中指
+🖖,0x1f596,vulcan-salute,vulcan salute,瓦肯敬礼
+🖤,1F5A4,black-heart,black heart,黑心
+🗻,0x1f5fb,mount-fuji,mount fuji,富士山
+🗼,0x1f5fc,moai,moai,美丽的
+😀,1F600,grinning-face,grinning face,笑脸
+😁,0x1f601,beaming-face-with-smiling-eyes,beaming face with smiling eyes,脸上带着微笑的眼睛
+😂,0x1f602,grinning-squinting-face,grinning squinting face,眯着眼睛笑的脸
+😇,0x1f607,smiling-face-with-halo,smiling face with halo,带光环的笑脸
+😈,0x1f608,smiling-face-with-horns,smiling face with horns,带角的笑脸
+😉,0x1f609,winking-face,winking face,眨眼的脸
+😊,0x1f60a,smiling-face-with-heart-eyes,smiling face with heart eyes,微笑的脸和心形的眼睛
+😎,1F60E,smiling-face-with-sunglasses,smiling face with sunglasses,戴着墨镜的笑脸
+😏,1F60F,smirking-face,smirking face,傻笑的脸
+😐,1F610,neutral-face,neutral face,中性面孔
+😑,1F611,expressionless-face,expressionless face,面无表情
+😒,0x1f612,unamused-face,unamused face,不高兴的脸
+😓,0x1f613,pensive-face,pensive face,沉思的脸
+😕,1F615,confused-face,confused face,困惑的脸
+😖,1F616,confounded-face,confounded face,困惑的脸
+😗,1F617,kissing-face,kissing face,亲吻脸
+😘,1F618,face-blowing-a-kiss,face blowing a kiss,脸飞吻
+😙,1F619,kissing-face-with-smiling-eyes,kissing face with smiling eyes,带着微笑的眼睛亲吻脸
+😚,1F61A,kissing-face-with-closed-eyes,kissing face with closed eyes,闭着眼睛亲吻脸
+😛,1F61B,face-with-tongue,face with tongue,用舌头面对
+😜,0x1f61c,winking-face-with-tongue,winking face with tongue,用舌头眨眼的脸
+😝,0x1f61d,disappointed-face,disappointed face,失望的脸
+😟,1F61F,worried-face,worried face,担心的脸
+😠,0x1f620,angry-face,angry face,愤怒的脸
+😡,0x1f621,sad-but-relieved-face,sad but relieved face,悲伤但如释重负的脸
+😦,0x1f626,frowning-face-with-open-mouth,frowning face with open mouth,张开嘴皱着眉头
+😧,0x1f627,anguished-face,anguished face,痛苦的脸
+😨,0x1f628,fearful-face,fearful face,恐惧的脸
+😩,0x1f629,tired-face,tired face,疲惫的脸
+😬,1F62C,grimacing-face,grimacing face,鬼脸
+😭,1F62D,loudly-crying-face,loudly crying face,大声哭泣的脸
+😮,0x1f62e,face-with-open-mouth,face with open mouth,张开嘴的脸
+😯,0x1f62f,hushed-face,hushed face,安静的脸
+😰,0x1f630,anxious-face-with-sweat,anxious face with sweat,满脸焦急满头大汗
+😱,0x1f631,flushed-face,flushed face,脸红了
+😴,1F634,sleeping-face,sleeping face,睡脸
+😵,1F635,face-with-crossed-out-eyes,face with crossed out eyes,眼睛被划掉的脸
+😶,1F636,face-without-mouth,face without mouth,没有嘴的脸
+😷,0x1f637,face-with-medical-mask,face with medical mask,带着医用口罩的脸
+😸,0x1f638,weary-cat,weary cat,疲倦的猫
+🙁,0x1f641,slightly-frowning-face,slightly frowning face,微微皱眉的脸
+🙂,0x1f642,face-with-rolling-eyes,face with rolling eyes,翻白眼的脸
+🙅,0x1f645,person-gesturing-NO,person gesturing NO,打手势“不”的人
+🙆,0x1f646,folded-hands,folded hands,双手合十
+🚀,1F680,rocket,rocket,火箭
+🚁,0x1f681,helicopter,helicopter,直升机
+🚂,0x1f682,locomotive,locomotive,机车
+🚃,0x1f683,railway-car,railway car,火车车厢
+🚄,0x1f684,bullet-train,bullet train,子弹头列车
+🚆,1F686,train,train,火车
+🚇,1F687,metro,metro,地铁
+🚈,1F688,light-rail,light rail,轻轨
+🚉,1F689,station,station,车站
+🚊,0x1f68a,tram,tram,电车
+🚋,0x1f68b,tram-car,tram car,有轨电车
+🚌,1F68C,bus,bus,公共汽车
+🚍,1F68D,oncoming-bus,oncoming bus,迎面而来的巴士
+🚎,1F68E,trolleybus,trolleybus,电车
+🚏,1F68F,bus-stop,bus stop,公交车站
+🚐,1F690,minibus,minibus,小巴
+🚑,0x1f691,ambulance,ambulance,救护车
+🚒,0x1f692,police-car,police car,警车
+🚔,1F694,oncoming-police-car,oncoming police car,迎面而来的警车
+🚕,1F695,taxi,taxi,出租车
+🚖,1F696,oncoming-taxi,oncoming taxi,迎面而来的出租车
+🚗,1F697,automobile,automobile,汽车
+🚘,1F698,oncoming-automobile,oncoming automobile,迎面而来的汽车
+🚙,0x1f699,sport-utility-vehicle,sport utility vehicle,运动型多用途车
+🚚,0x1f69a,delivery-truck,delivery truck,送货卡车
+🚛,0x1f69b,articulated-lorry,articulated lorry,铰接式货车
+🚜,0x1f69c,aerial-tramway,aerial tramway,空中缆车
+🚢,1F6A2,ship,ship,船
+🚣,1F6A3,person-rowing-boat,person rowing boat,划船的人
+🚤,0x1f6a4,speedboat,speedboat,快艇
+🚥,0x1f6a5,horizontal-traffic-light,horizontal traffic light,水平交通灯
+🚦,1F6A6,vertical-traffic-light,vertical traffic light,垂直交通灯
+🚧,0x1f6a7,construction,construction,建造
+🚨,0x1f6a8,no-smoking,no smoking,禁止抽烟
+🚮,0x1f6ae,litter-in-bin-sign,litter in bin sign,垃圾桶标志中乱扔垃圾
+🚯,0x1f6af,non-potable-water,non potable water,非饮用水
+🚲,1F6B2,bicycle,bicycle,自行车
+🚳,0x1f6b3,no-bicycles,no bicycles,自行车禁行
+🚴,0x1f6b4,person-mountain-biking,person mountain biking,骑山地自行车的人
+🚶,1F6B6,person-walking,person walking,行走的人
+🚷,0x1f6b7,no-pedestrians,no pedestrians,行人禁止通行
+🚸,0x1f6b8,children-crossing,children crossing,儿童穿越
+🚹,0x1f6b9,men’s-room,men’s room,男厕所
+🚺,0x1f6ba,water-closet,water closet,洗手间
+🚿,1F6BF,shower,shower,淋浴
+🛀,1F6C0,person-taking-bath,person taking bath,洗澡的人
+🛁,0x1f6c1,bathtub,bathtub,浴缸
+🛂,0x1f6c2,left-luggage,left luggage,行李寄存
+🛌,1F6CC,person-in-bed,person in bed,床上的人
+🛐,1F6D0,place-of-worship,place of worship,宗教场所
+🛑,0x1f6d1,stop-sign,stop sign,停止标志
+🛒,0x1f6d2,shopping-cart,shopping cart,购物车
+🛕,1F6D5,hindu-temple,hindu temple,印度教寺庙
+🛖,0x1f6d6,hut,hut,小屋
+🛗,0x1f6d7,elevator,elevator,电梯
+🛜,1F6DC,wireless,wireless,无线的
+🛝,0x1f6dd,playground-slide,playground slide,游乐场滑梯
+🛞,0x1f6de,ring-buoy,ring buoy,环形浮标
+🛫,0x1f6eb,airplane-departure,airplane departure,飞机起飞
+🛬,0x1f6ec,airplane-arrival,airplane arrival,飞机到达
+🛴,0x1f6f4,kick-scooter,kick scooter,踢滑板车
+🛵,0x1f6f5,canoe,canoe,独木舟
+🛷,0x1f6f7,sled,sled,雪橇
+🛸,0x1f6f8,flying-saucer,flying saucer,飞碟
+🛹,1F6F9,skateboard,skateboard,滑板
+🛺,1F6FA,auto-rickshaw,auto rickshaw,自动人力车
+🛻,0x1f6fb,pickup-truck,pickup truck,皮卡车
+🛼,0x1f6fc,roller-skate,roller skate,溜冰鞋
+🟠,0x1f7e0,orange-circle,orange circle,橙色圆圈
+🟡,0x1f7e1,brown-square,brown square,棕色方块
+🟰,1F7F0,heavy-equals-sign,heavy equals sign,重等号
+🤌,1F90C,pinched-fingers,pinched fingers,捏手指
+🤍,0x1f90d,white-heart,white heart,白心
+🤎,0x1f90e,pinching-hand,pinching hand,捏手
+🤐,0x1f910,zipper-mouth-face,zipper mouth face,拉链嘴脸
+🤑,0x1f911,sign-of-the-horns,sign of the horns,角的标志
+🤙,0x1f919,call-me-hand,call me hand,叫我手
+🤚,0x1f91a,crossed-fingers,crossed fingers,交叉手指
+🤟,1F91F,love-you-gesture,love you gesture,爱你的手势
+🤠,0x1f920,cowboy-hat-face,cowboy hat face,牛仔帽脸
+🤡,0x1f921,sneezing-face,sneezing face,打喷嚏的脸
+🤨,0x1f928,face-with-raised-eyebrow,face with raised eyebrow,扬眉的脸
+🤩,0x1f929,exploding-head,exploding head,爆炸头
+🤰,1F930,pregnant-woman,pregnant woman,怀孕的女人
+🤱,0x1f931,breast-feeding,breast feeding,母乳喂养
+🤲,0x1f932,palms-up-together,palms up together,手掌向上并拢
+🤳,0x1f933,selfie,selfie,自拍
+🤴,0x1f934,person-fencing,person fencing,人击剑
+🤼,0x1f93c,people-wrestling,people wrestling,人们摔跤
+🤽,0x1f93d,person-playing-handball,person playing handball,打手球的人
+🤿,1F93F,diving-mask,diving mask,潜水面具
+🥀,0x1f940,wilted-flower,wilted flower,枯萎的花
+🥁,0x1f941,goal-net,goal net,不要瞄准
+🥇,0x1f947,1st-place-medal,1st place medal,第一名奖牌
+🥈,0x1f948,martial-arts-uniform,martial arts uniform,武术服
+🥌,1F94C,curling-stone,curling stone,冰壶石
+🥍,0x1f94d,lacrosse,lacrosse,长曲棍球
+🥎,0x1f94e,flying-disc,flying disc,飞盘
+🥐,0x1f950,croissant,croissant,羊角面包
+🥑,0x1f951,pancakes,pancakes,薄煎饼
+🥟,0x1f95f,dumpling,dumpling,饺子
+🥠,0x1f960,canned-food,canned food,罐头食品
+🥬,0x1f96c,leafy-green,leafy green,绿叶
+🥭,0x1f96d,smiling-face-with-hearts,smiling face with hearts,笑脸与心
+🥱,1F971,yawning-face,yawning face,打呵欠的脸
+🥲,1F972,smiling-face-with-tear,smiling face with tear,含着泪水的笑脸
+🥳,0x1f973,partying-face,partying face,派对脸
+🥴,0x1f974,cold-face,cold face,冷脸
+🥷,0x1f977,ninja,ninja,忍者
+🥸,0x1f978,disguised-face,disguised face,伪装的脸
+🥹,1F979,face-holding-back-tears,face holding back tears,强忍着泪水的脸
+🥺,1F97A,pleading-face,pleading face,恳求的脸
+🥻,1F97B,sari,sari,纱丽
+🥼,0x1f97c,lab-coat,lab coat,实验工作服
+🥽,0x1f97d,flat-shoe,flat shoe,平底鞋
+🦀,0x1f980,crab,crab,螃蟹
+🦁,0x1f981,unicorn,unicorn,独角兽
+🦅,0x1f985,eagle,eagle,鹰
+🦆,0x1f986,squid,squid,乌贼
+🦒,0x1f992,giraffe,giraffe,长颈鹿
+🦓,0x1f993,cricket,cricket,蟋蟀
+🦘,0x1f998,kangaroo,kangaroo,袋鼠
+🦙,0x1f999,swan,swan,天鹅
+🦣,0x1f9a3,mammoth,mammoth,长毛象
+🦤,0x1f9a4,dodo,dodo,渡渡鸟
+🦥,0x1f9a5,sloth,sloth,树懒
+🦦,0x1f9a6,oyster,oyster,牡蛎
+🦫,0x1f9ab,beaver,beaver,海狸
+🦬,0x1f9ac,seal,seal,海豹
+🦮,0x1f9ae,guide-dog,guide dog,导盲犬
+🦯,0x1f9af,white-cane,white cane,白手杖
+🦰,0x1f9b0,red-hair,red hair,红发
+🦱,0x1f9b1,supervillain,supervillain,超级恶棍
+🦺,0x1f9ba,safety-vest,safety vest,安全背心
+🦻,0x1f9bb,mechanical-leg,mechanical leg,机械腿
+🧀,1F9C0,cheese-wedge,cheese wedge,奶酪角
+🧁,0x1f9c1,cupcake,cupcake,纸杯蛋糕
+🧂,0x1f9c2,salt,salt,盐
+🧃,0x1f9c3,beverage-box,beverage box,饮料盒
+🧄,0x1f9c4,ice,ice,冰
+🧋,1F9CB,bubble-tea,bubble tea,珍珠奶茶
+🧌,1F9CC,troll,troll,巨魔
+🧍,0x1f9cd,person-standing,person standing,站着的人
+🧎,0x1f9ce,deaf-person,deaf person,聋人
+🧐,0x1f9d0,face-with-monocle,face with monocle,带单片眼镜的脸
+🧑,0x1f9d1,socks,socks,袜子
+🧧,0x1f9e7,red-envelope,red envelope,红信封
+🧨,0x1f9e8,nazar-amulet,nazar amulet,纳扎尔护身符
+🩰,0x1fa70,ballet-shoes,ballet shoes,芭蕾舞鞋
+🩱,0x1fa71,shorts,shorts,短裤
+🩴,1FA74,thong-sandal,thong sandal,人字拖凉鞋
+🩵,0x1fa75,light-blue-heart,light blue heart,淡蓝色的心
+🩶,0x1fa76,pink-heart,pink heart,粉红色的心
+🩸,0x1fa78,drop-of-blood,drop of blood,一滴血
+🩹,0x1fa79,stethoscope,stethoscope,听诊器
+🩻,0x1fa7b,x-ray,x ray,X射线
+🩼,0x1fa7c,crutch,crutch,拐杖
+🪀,0x1fa80,yo-yo,yo yo,悠悠球
+🪁,0x1fa81,parachute,parachute,降落伞
+🪃,0x1fa83,boomerang,boomerang,回旋镖
+🪄,0x1fa84,nesting-dolls,nesting dolls,嵌套娃娃
+🪇,0x1fa87,maracas,maracas,马拉卡斯
+🪈,0x1fa88,flute,flute,长笛
+🪐,0x1fa90,ringed-planet,ringed planet,环行星
+🪑,0x1fa91,banjo,banjo,班卓琴
+🪖,0x1fa96,military-helmet,military helmet,军用头盔
+🪗,0x1fa97,rock,rock,岩石
+🪩,0x1faa9,mirror-ball,mirror ball,镜面球
+🪪,0x1faaa,hamsa,hamsa,哈姆萨
+🪭,0x1faad,folding-hand-fan,folding hand fan,折叠手扇
+🪮,0x1faae,khanda,khanda,婴儿
+🪰,0x1fab0,fly,fly,飞
+🪱,0x1fab1,feather,feather,羽毛
+🪷,0x1fab7,lotus,lotus,莲花
+🪸,0x1fab8,nest-with-eggs,nest with eggs,与蛋筑巢
+🪻,0x1fabb,hyacinth,hyacinth,风信子
+🪼,0x1fabc,wing,wing,翅膀
+🪿,1FABF,goose,goose,鹅
+🫀,0x1fac0,anatomical-heart,anatomical heart,解剖心脏
+🫁,0x1fac1,people-hugging,people hugging,人们拥抱
+🫃,0x1fac3,pregnant-man,pregnant man,怀孕的男人
+🫄,0x1fac4,person-with-crown,person with crown,戴皇冠的人
+🫎,0x1face,moose,moose,驼鹿
+🫏,0x1facf,donkey,donkey,驴
+🫐,0x1fad0,blueberries,blueberries,蓝莓
+🫑,0x1fad1,teapot,teapot,茶壶
+🫗,0x1fad7,pouring-liquid,pouring liquid,倾倒液体
+🫘,0x1fad8,jar,jar,罐
+🫚,0x1fada,ginger-root,ginger root,姜根
+🫛,0x1fadb,pea-pod,pea pod,头荚
+🫠,0x1fae0,melting-face,melting face,融化的脸
+🫡,0x1fae1,bubbles,bubbles,气泡
+🫨,1FAE8,shaking-face,shaking face,摇脸
+🫰,0x1faf0,hand-with-index-finger-and-thumb-crossed,hand with index finger and thumb crossed,食指和拇指交叉的手
+🫱,0x1faf1,heart-hands,heart hands,心形手
+🫷,0x1faf7,leftwards-pushing-hand,leftwards pushing hand,向左推手
+🫸,0x1faf8,rightwards-pushing-hand,rightwards pushing hand,向右推手
+©️,00A9 FE0F,copyright,copyright,版权
+®️,00AE FE0F,registered,registered,挂号的
+‼️,203C FE0F,double-exclamation-mark,double exclamation mark,双感叹号
+⁉️,2049 FE0F,exclamation-question-mark,exclamation question mark,感叹号问号
+™️,2122 FE0F,trade-mark,trade mark,商标
+ℹ️,2139 FE0F,information,information,信息
+↔️,2194 FE0F,left-right-arrow,left right arrow,左右箭头
+↕️,2195 FE0F,up-down-arrow,up down arrow,向上向下箭头
+↖️,2196 FE0F,up-left-arrow,up left arrow,左上箭头
+↗️,2197 FE0F,up-right-arrow,up right arrow,右上箭头
+↘️,2198 FE0F,down-right-arrow,down right arrow,右下箭头
+↙️,2199 FE0F,down-left-arrow,down left arrow,左下箭头
+↩️,21A9 FE0F,right-arrow-curving-left,right arrow curving left,右箭头向左弯曲
+↪️,21AA FE0F,left-arrow-curving-right,left arrow curving right,左箭头向右弯曲
+⌨️,2328 FE0F,keyboard,keyboard,键盘
+⏱️,23F1 FE0F,stopwatch,stopwatch,跑表
+⏲️,23F2 FE0F,timer-clock,timer clock,定时器时钟
+Ⓜ️,24C2 FE0F,circled-M,circled M,圆圈中的M
+▪️,25AA FE0F,black-small-square,black small square,黑色小方块
+▫️,25AB FE0F,white-small-square,white small square,白色小方块
+◻️,25FB FE0F,white-medium-square,white medium square,白色中方形
+◼️,25FC FE0F,black-medium-square,black medium square,黑色中方形
+☀️,2600 FE0F,sun,sun,太阳
+☁️,2601 FE0F,cloud,cloud,云
+☂️,2602 FE0F,umbrella,umbrella,伞
+☃️,2603 FE0F,snowman,snowman,雪人
+☄️,2604 FE0F,comet,comet,彗星
+☎️,260E FE0F,telephone,telephone,电话
+☑️,2611 FE0F,check-box-with-check,check box with check,带复选标记的复选框
+☘️,2618 FE0F,shamrock,shamrock,三叶草
+☝️,261D FE0F,index-pointing-up,index pointing up,索引向上
+☠️,2620 FE0F,skull-and-crossbones,skull and crossbones,骷髅和交叉骨
+☢️,2622 FE0F,radioactive,radioactive,放射性的
+☣️,2623 FE0F,biohazard,biohazard,生物危害
+☦️,2626 FE0F,orthodox-cross,orthodox cross,东正教十字架
+☪️,262A FE0F,star-and-crescent,star and crescent,星星和新月
+☮️,262E FE0F,peace-symbol,peace symbol,和平象征
+☯️,262F FE0F,yin-yang,yin yang,yin yang
+☸️,2638 FE0F,wheel-of-dharma,wheel of dharma,法轮
+☹️,2639 FE0F,frowning-face,frowning face,皱眉的脸
+☺️,263A FE0F,smiling-face,smiling face,微笑的面孔
+♀️,2640 FE0F,female-sign,female sign,女性标志
+♂️,2642 FE0F,male-sign,male sign,男性标志
+♟️,265F FE0F,chess-pawn,chess pawn,国际象棋棋子
+♠️,2660 FE0F,spade-suit,spade suit,黑桃花色
+♣️,2663 FE0F,club-suit,club suit,俱乐部套装
+♥️,2665 FE0F,heart-suit,heart suit,心形套装
+♦️,2666 FE0F,diamond-suit,diamond suit,钻石套装
+♨️,2668 FE0F,hot-springs,hot springs,温泉
+♻️,267B FE0F,recycling-symbol,recycling symbol,回收符号
+♾️,267E FE0F,infinity,infinity,无穷
+⚒️,2692 FE0F,hammer-and-pick,hammer and pick,锤子和镐
+⚔️,2694 FE0F,crossed-swords,crossed swords,交叉的剑
+⚕️,2695 FE0F,medical-symbol,medical symbol,医学符号
+⚖️,2696 FE0F,balance-scale,balance scale,天平秤
+⚗️,2697 FE0F,alembic,alembic,蒸馏器
+⚙️,2699 FE0F,gear,gear,齿轮
+⚛️,269B FE0F,atom-symbol,atom symbol,原子符号
+⚜️,269C FE0F,fleur-de-lis,fleur de lis,百合花
+⚠️,26A0 FE0F,warning,warning,警告
+⚧️,26A7 FE0F,transgender-symbol,transgender symbol,跨性别符号
+⚰️,26B0 FE0F,coffin,coffin,棺材
+⚱️,26B1 FE0F,funeral-urn,funeral urn,骨灰盒
+⛈️,26C8 FE0F,cloud-with-lightning-and-rain,cloud with lightning and rain,云与闪电和雨
+⛏️,26CF FE0F,pick,pick,挑选
+⛑️,26D1 FE0F,rescue-worker’s-helmet,rescue worker’s helmet,救援人员的头盔
+⛓️,26D3 FE0F,chains,chains,链条
+⛩️,26E9 FE0F,shinto-shrine,shinto shrine,神社
+⛰️,26F0 FE0F,mountain,mountain,山
+⛱️,26F1 FE0F,umbrella-on-ground,umbrella on ground,地上的伞
+⛴️,26F4 FE0F,ferry,ferry,渡船
+⛷️,26F7 FE0F,skier,skier,滑雪者
+⛸️,26F8 FE0F,ice-skate,ice skate,滑冰
+⛹️,26F9 FE0F,person-bouncing-ball,person bouncing ball,人弹球
+✂️,2702 FE0F,scissors,scissors,剪刀
+✈️,2708 FE0F,airplane,airplane,飞机
+✉️,2709 FE0F,envelope,envelope,信封
+✌️,270C FE0F,victory-hand,victory hand,胜利之手
+✍️,270D FE0F,writing-hand,writing hand,写字的手
+✏️,270F FE0F,pencil,pencil,铅笔
+✒️,2712 FE0F,black-nib,black nib,黑色笔尖
+✔️,2714 FE0F,check-mark,check mark,复选标记
+✖️,2716 FE0F,multiply,multiply,乘
+✝️,271D FE0F,latin-cross,latin cross,拉丁十字
+✡️,2721 FE0F,star-of-David,star of David,大卫之星
+✳️,2733 FE0F,eight-spoked-asterisk,eight spoked asterisk,八辐星号
+✴️,2734 FE0F,eight-pointed-star,eight pointed star,八角星
+❄️,2744 FE0F,snowflake,snowflake,雪花
+❇️,2747 FE0F,sparkle,sparkle,火花
+❣️,2763 FE0F,heart-exclamation,heart exclamation,心中感叹
+❤️,2764 FE0F,red-heart,red heart,红心
+➡️,27A1 FE0F,right-arrow,right arrow,右箭头
+⤴️,2934 FE0F,right-arrow-curving-up,right arrow curving up,右箭头向上弯曲
+⤵️,2935 FE0F,right-arrow-curving-down,right arrow curving down,右箭头向下弯曲
+⬅️,2B05 FE0F,left-arrow,left arrow,左箭头
+⬆️,2B06 FE0F,up-arrow,up arrow,向上箭头
+⬇️,2B07 FE0F,down-arrow,down arrow,向下箭头
+〰️,3030 FE0F,wavy-dash,wavy dash,波浪破折号
+〽️,303D FE0F,part-alternation-mark,part alternation mark,零件交替标记
+🌡️,1F321 FE0F,thermometer,thermometer,温度计
+🌤️,1F324 FE0F,sun-behind-small-cloud,sun behind small cloud,小云朵后面的太阳
+🌥️,1F325 FE0F,sun-behind-large-cloud,sun behind large cloud,太阳在大云后面
+🌦️,1F326 FE0F,sun-behind-rain-cloud,sun behind rain cloud,太阳在雨云后面
+🌧️,1F327 FE0F,cloud-with-rain,cloud with rain,云有雨
+🌨️,1F328 FE0F,cloud-with-snow,cloud with snow,云与雪
+🌩️,1F329 FE0F,cloud-with-lightning,cloud with lightning,云与闪电
+🌪️,1F32A FE0F,tornado,tornado,龙卷风
+🌫️,1F32B FE0F,fog,fog,多雾路段
+🌬️,1F32C FE0F,wind-face,wind face,风脸
+🌶️,1F336 FE0F,hot-pepper,hot pepper,辣椒
+🍽️,1F37D FE0F,fork-and-knife-with-plate,fork and knife with plate,带盘子的叉子和刀子
+🎖️,1F396 FE0F,military-medal,military medal,军事奖章
+🎗️,1F397 FE0F,reminder-ribbon,reminder ribbon,提醒丝带
+🎙️,1F399 FE0F,studio-microphone,studio microphone,录音室麦克风
+🎚️,1F39A FE0F,level-slider,level slider,水平滑块
+🎛️,1F39B FE0F,control-knobs,control knobs,控制旋钮
+🎞️,1F39E FE0F,film-frames,film frames,胶片帧
+🎟️,1F39F FE0F,admission-tickets,admission tickets,门票
+🏋️,1F3CB FE0F,person-lifting-weights,person lifting weights,举重的人
+🏌️,1F3CC FE0F,person-golfing,person golfing,打高尔夫球的人
+🏍️,1F3CD FE0F,motorcycle,motorcycle,摩托车
+🏎️,1F3CE FE0F,racing-car,racing car,赛车
+🏔️,1F3D4 FE0F,snow-capped-mountain,snow capped mountain,雪山
+🏕️,1F3D5 FE0F,camping,camping,野营
+🏖️,1F3D6 FE0F,beach-with-umbrella,beach with umbrella,带伞的海滩
+🏗️,1F3D7 FE0F,building-construction,building construction,建筑施工
+🏘️,1F3D8 FE0F,houses,houses,房屋
+🏙️,1F3D9 FE0F,cityscape,cityscape,城市景观
+🏚️,1F3DA FE0F,derelict-house,derelict house,废弃的房子
+🏛️,1F3DB FE0F,classical-building,classical building,古典建筑
+🏜️,1F3DC FE0F,desert,desert,沙漠
+🏝️,1F3DD FE0F,desert-island,desert island,沙漠荒岛
+🏞️,1F3DE FE0F,national-park,national park,国家公园
+🏟️,1F3DF FE0F,stadium,stadium,体育场
+🏳️,1F3F3 FE0F,white-flag,white flag,白旗
+🏵️,1F3F5 FE0F,rosette,rosette,玫瑰花结
+🏷️,1F3F7 FE0F,label,label,标签
+🐿️,1F43F FE0F,chipmunk,chipmunk,花栗鼠
+👁️,1F441 FE0F,eye,eye,眼睛
+📽️,1F4FD FE0F,film-projector,film projector,电影放映机
+🕉️,1F549 FE0F,om,om,关于
+🕊️,1F54A FE0F,dove,dove,在哪里
+🕯️,1F56F FE0F,candle,candle,蜡烛
+🕰️,1F570 FE0F,mantelpiece-clock,mantelpiece clock,壁炉台钟
+🕳️,1F573 FE0F,hole,hole,洞
+🕴️,1F574 FE0F,person-in-suit-levitating,person in suit levitating,穿着西装的人悬浮
+🕵️,1F575 FE0F,detective,detective,侦探
+🕶️,1F576 FE0F,sunglasses,sunglasses,太阳镜
+🕷️,1F577 FE0F,spider,spider,蜘蛛
+🕸️,1F578 FE0F,spider-web,spider web,蜘蛛网
+🕹️,1F579 FE0F,joystick,joystick,操纵杆
+🖇️,1F587 FE0F,linked-paperclips,linked paperclips,链接的回形针
+🖊️,1F58A FE0F,pen,pen,笔
+🖋️,1F58B FE0F,fountain-pen,fountain pen,钢笔
+🖌️,1F58C FE0F,paintbrush,paintbrush,画笔
+🖍️,1F58D FE0F,crayon,crayon,蜡笔
+🖐️,1F590 FE0F,hand-with-fingers-splayed,hand with fingers splayed,手指张开的手
+🖥️,1F5A5 FE0F,desktop-computer,desktop computer,台式电脑
+🖨️,1F5A8 FE0F,printer,printer,打印机
+🖱️,1F5B1 FE0F,computer-mouse,computer mouse,电脑鼠标
+🖲️,1F5B2 FE0F,trackball,trackball,轨迹球
+🖼️,1F5BC FE0F,framed-picture,framed picture,带框的图片
+🗂️,1F5C2 FE0F,card-index-dividers,card index dividers,卡片索引分隔线
+🗃️,1F5C3 FE0F,card-file-box,card file box,卡片文件盒
+🗄️,1F5C4 FE0F,file-cabinet,file cabinet,文件柜
+🗑️,1F5D1 FE0F,wastebasket,wastebasket,废纸篓
+🗒️,1F5D2 FE0F,spiral-notepad,spiral notepad,螺旋记事本
+🗓️,1F5D3 FE0F,spiral-calendar,spiral calendar,螺旋日历
+🗜️,1F5DC FE0F,clamp,clamp,夹钳
+🗝️,1F5DD FE0F,old-key,old key,旧钥匙
+🗞️,1F5DE FE0F,rolled-up-newspaper,rolled up newspaper,卷起的报纸
+🗡️,1F5E1 FE0F,dagger,dagger,匕首
+🗣️,1F5E3 FE0F,speaking-head,speaking head,说话的头
+🗨️,1F5E8 FE0F,left-speech-bubble,left speech bubble,左边的语音气泡
+🗯️,1F5EF FE0F,right-anger-bubble,right anger bubble,右愤怒泡沫
+🗳️,1F5F3 FE0F,ballot-box-with-ballot,ballot box with ballot,带选票的投票箱
+🗺️,1F5FA FE0F,world-map,world map,世界地图
+🛋️,1F6CB FE0F,couch-and-lamp,couch and lamp,沙发和灯
+🛍️,1F6CD FE0F,shopping-bags,shopping bags,购物袋
+🛎️,1F6CE FE0F,bellhop-bell,bellhop bell,侍者铃
+🛏️,1F6CF FE0F,bed,bed,床
+🛠️,1F6E0 FE0F,hammer-and-wrench,hammer and wrench,锤子和扳手
+🛡️,1F6E1 FE0F,shield,shield,盾
+🛢️,1F6E2 FE0F,oil-drum,oil drum,油桶
+🛣️,1F6E3 FE0F,motorway,motorway,高速公路
+🛤️,1F6E4 FE0F,railway-track,railway track,铁路轨道
+🛥️,1F6E5 FE0F,motor-boat,motor boat,摩托艇
+🛩️,1F6E9 FE0F,small-airplane,small airplane,小飞机
+🛰️,1F6F0 FE0F,satellite,satellite,卫星
+🛳️,1F6F3 FE0F,passenger-ship,passenger ship,客船
+#️⃣,0023 FE0F 20E3,keycap:-\x{23},keycap: \x{23},键帽：\x{23}
+*️⃣,002A FE0F 20E3,keycap:-*,keycap: *,键帽：*
+0️⃣,0030 FE0F 20E3,keycap:-0,keycap: 0,键帽：0
+1️⃣,0031 FE0F 20E3,keycap:-1,keycap: 1,键帽：1
+2️⃣,0032 FE0F 20E3,keycap:-2,keycap: 2,键帽：2
+3️⃣,0033 FE0F 20E3,keycap:-3,keycap: 3,键帽：3
+4️⃣,0034 FE0F 20E3,keycap:-4,keycap: 4,键帽：4
+5️⃣,0035 FE0F 20E3,keycap:-5,keycap: 5,键帽：5
+6️⃣,0036 FE0F 20E3,keycap:-6,keycap: 6,键帽：6
+7️⃣,0037 FE0F 20E3,keycap:-7,keycap: 7,键帽：7
+8️⃣,0038 FE0F 20E3,keycap:-8,keycap: 8,键帽：8
+9️⃣,0039 FE0F 20E3,keycap:-9,keycap: 9,键帽：9
